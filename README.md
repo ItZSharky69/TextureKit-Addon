@@ -1,5 +1,6 @@
 # TextureKit-Addon
 TextureKit lets you quickly swap vanilla Minecraft textures with any other Minecraft texture directly inside Blender, without manually replacing texture files.
+<img width="2172" height="724" alt="Glossy TextureKit Gear Logo" src="https://github.com/user-attachments/assets/98f63976-35bd-4610-9137-bb1ef494ba08" />
 
 TextureKit is a Blender addon designed to speed up the workflow of Minecraft artists and animators by making texture swapping and material customization much easier.
 You can replace Minecraft's vanilla textures with other Minecraft textures directly inside Blender and customize important shader properties without manually editing materials in the Shader Editor.
